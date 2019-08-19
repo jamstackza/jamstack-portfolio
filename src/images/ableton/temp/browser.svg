@@ -1,0 +1,272 @@
+<svg id="sidebar" xmlns="http://www.w3.org/2000/svg" width="641" height="1038" viewBox="0 0 641 1038">
+  <defs>
+    <style>
+      .cls-1, .cls-16 {
+        fill: #353535;
+      }
+
+      .cls-2 {
+        fill: #202020;
+      }
+
+      .cls-15, .cls-3, .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-15, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #b5b2b1;
+      }
+
+      .cls-15, .cls-3, .cls-4, .cls-7 {
+        font-family: Ubuntu;
+      }
+
+      .cls-4 {
+        text-anchor: end;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-16, .cls-17, .cls-5, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        font-size: 16px;
+        text-transform: uppercase;
+      }
+
+      .cls-8 {
+        fill: #505050;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-14, .cls-9 {
+        fill: none;
+      }
+
+      .cls-10, .cls-11, .cls-9 {
+        stroke: #b5b2b1;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-12 {
+        fill: #0bcae6;
+      }
+
+      .cls-13 {
+        stroke: #5a5a5a;
+      }
+
+      .cls-13, .cls-14 {
+        stroke-linecap: round;
+        stroke-width: 5px;
+      }
+
+      .cls-14 {
+        stroke: #ffc907;
+      }
+
+      .cls-15 {
+        font-weight: 700;
+      }
+
+      .cls-17 {
+        fill: #8d8d8d;
+      }
+    </style>
+  </defs>
+  <rect id="sidebar_bg" data-name="sidebar bg" class="cls-1" x="257" y="4" width="384" height="1020"/>
+  <g id="_2nd_level_browser" data-name="2nd level browser">
+    <rect id="indicator" class="cls-2" x="257" y="620" width="384" height="37"/>
+    <text id="Amp_Audio_Effect_Rack_Auto_Filter_Auto_Pan_Auto_Tune_Beat_Repea" data-name="Amp Audio Effect Rack Auto Filter Auto Pan Auto Tune Beat Repea" class="cls-3" x="306.5" y="160.98">Amp<tspan x="306.5" dy="24">Audio Effect Rack</tspan><tspan x="306.5" dy="24">Auto Filter</tspan><tspan x="306.5" dy="24">Auto Pan</tspan><tspan x="306.5" dy="24">Auto Tune</tspan><tspan x="306.5" dy="24">Beat Repeat</tspan><tspan x="306.5" dy="24">Cabinet</tspan><tspan x="306.5" dy="24">Chorus</tspan><tspan x="306.5" dy="24">Compressor</tspan><tspan x="306.5" dy="24">Corpus</tspan><tspan x="306.5" dy="24">Dynamic Tube</tspan><tspan x="306.5" dy="168">EQ</tspan><tspan x="306.5" dy="24">Erosion</tspan><tspan x="306.5" dy="24">External Audio Effect</tspan><tspan x="306.5" dy="24">Filter Delay</tspan><tspan x="306.5" dy="24">Flanger</tspan><tspan x="306.5" dy="24">Frequency Shifter</tspan><tspan x="306.5" dy="24">Gate</tspan><tspan x="306.5" dy="24">Glue Compressor</tspan><tspan x="306.5" dy="24">Grain Delay</tspan><tspan x="306.5" dy="24">Limiter</tspan><tspan x="306.5" dy="24">Looper</tspan><tspan x="306.5" dy="24">Multiband Distorsion</tspan><tspan x="306.5" dy="24">Multiband Dynamics</tspan><tspan x="306.5" dy="24">Overdrive</tspan><tspan x="306.5" dy="24">Phaser</tspan><tspan x="306.5" dy="24">Ping Pong Delay</tspan><tspan x="306.5" dy="24">Redux</tspan><tspan x="306.5" dy="24">Resonators</tspan><tspan x="306.5" dy="24">Reverb</tspan><tspan x="306.5" dy="24">Saturator</tspan><tspan x="306.5" dy="24">Simple Delay</tspan><tspan x="306.5" dy="24">Spectrum</tspan><tspan x="306.5" dy="24">Stereo Imager</tspan><tspan x="306.5" dy="24">Transient Designer</tspan><tspan x="306.5" dy="24">Utility</tspan><tspan x="306.5" dy="24">Vinyl Distorsion</tspan><tspan x="306.5" dy="24">Vocoder</tspan></text>
+    <text id="_Broken_Tube_Discreet_Beat_Dirt_Distortion_Gate_Hot_Driven_T" data-name=" Broken Tube  Discreet Beat Dirt  Distortion Gate  Hot Driven T" class="cls-3" x="313.964" y="574.388">	Broken Tube<tspan x="313.964" dy="24">	Discreet Beat Dirt</tspan><tspan x="313.964" dy="24">	Distortion Gate</tspan><tspan x="313.964" dy="24">	Hot Driven Tape</tspan><tspan x="313.964" dy="24">	Tube Trash</tspan><tspan x="313.964" dy="24">	Warm Tube</tspan></text>
+    <g id="CPU_hit" data-name="CPU hit">
+      <text id="_5_" data-name="+5%" class="cls-4" x="612" y="792">+5%</text>
+      <text id="_1_" data-name="1%" class="cls-4" x="612" y="537">1%</text>
+      <text id="_2.45_" data-name="2.45%" class="cls-4" x="612" y="464.999">2.45%</text>
+      <text id="_0.1_" data-name="0.1%" class="cls-4" x="612" y="429">0.1%</text>
+      <text id="_0.1_2" data-name="0.1%" class="cls-4" x="612" y="860">0.1%</text>
+      <text id="_10_" data-name="10%" class="cls-4" x="612" y="930">10%</text>
+      <text id="_5.87_CPU" data-name="+5.87% CPU" class="cls-4" x="613" y="1006">+5.87% CPU</text>
+      <text id="_5.87_" data-name="5.87%" class="cls-4" x="612" y="177">5.87%</text>
+    </g>
+    <g id="tirangles">
+      <path id="triangle" class="cls-5" d="M295.012,170.488l-6.018,5.5V164.985Z"/>
+      <path id="triangle-2" data-name="triangle" class="cls-5" d="M295.012,206.488l-6.018,5.5V200.985Z"/>
+      <path id="triangle-3" data-name="triangle" class="cls-5" d="M295.012,242.488l-6.018,5.5V236.985Z"/>
+      <path id="triangle-4" data-name="triangle" class="cls-5" d="M295.012,278.488l-6.018,5.5V272.985Z"/>
+      <path id="triangle-5" data-name="triangle" class="cls-5" d="M295.012,314.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-6" data-name="triangle" class="cls-5" d="M295.012,350.488l-6.018,5.5V344.985Z"/>
+      <path id="triangle-7" data-name="triangle" class="cls-5" d="M295.012,386.488l-6.018,5.5V380.985Z"/>
+      <path id="triangle-8" data-name="triangle" class="cls-5" d="M295.012,422.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-9" data-name="triangle" class="cls-5" d="M295.012,458.488l-6.018,5.5V452.985Z"/>
+      <path id="triangle-10" data-name="triangle" class="cls-5" d="M295.012,494.488l-6.018,5.5V488.985Z"/>
+      <path id="triangle-11" data-name="triangle" class="cls-5" d="M295.012,782.488l-6.018,5.5V776.985Z"/>
+      <path id="triangle-12" data-name="triangle" class="cls-5" d="M295.012,818.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-13" data-name="triangle" class="cls-5" d="M295.012,854.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-14" data-name="triangle" class="cls-5" d="M295.012,890.488l-6.018,5.5V884.985Z"/>
+      <path id="triangle-15" data-name="triangle" class="cls-5" d="M295.012,926.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-16" data-name="triangle" class="cls-5" d="M295.012,962.488l-6.018,5.5v-11Z"/>
+      <path id="triangle-17" data-name="triangle" class="cls-5" d="M295.012,998.488l-6.018,5.5v-11Z"/>
+      <path id="triangle_" data-name="triangle !" class="cls-5" d="M291.512,534.012l-5.5-6.018h11.006Z"/>
+    </g>
+    <g id="audio_fx_Label_" data-name="audio fx Label ">
+      <rect id="line" class="cls-6" x="290" y="131" width="322" height="1"/>
+      <text id="Audio_Effects" data-name="Audio Effects" class="cls-7" x="290.315" y="119.236">Audio Effects</text>
+      <text id="CPU_USAGE" data-name="CPU USAGE" class="cls-7" x="526.315" y="119.236">CPU USAGE</text>
+    </g>
+    <g id="Preset_Icons" data-name="Preset Icons">
+      <path id="preset_icon" data-name="preset icon" class="cls-5" d="M309,555h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V557A2,2,0,0,1,309,555Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V558A1,1,0,0,1,310,557Zm-2,4h28v2H308v-2Z"/>
+      <path id="preset_icon-2" data-name="preset icon" class="cls-5" d="M309,591h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V593A2,2,0,0,1,309,591Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V594A1,1,0,0,1,310,593Zm-2,4h28v2H308v-2Z"/>
+      <path id="preset_icon-3" data-name="preset icon" class="cls-5" d="M309,627h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V629A2,2,0,0,1,309,627Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V630A1,1,0,0,1,310,629Zm-2,4h28v2H308v-2Z"/>
+      <path id="preset_icon-4" data-name="preset icon" class="cls-5" d="M309,663h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V665A2,2,0,0,1,309,663Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V666A1,1,0,0,1,310,665Zm-2,4h28v2H308v-2Z"/>
+      <path id="preset_icon-5" data-name="preset icon" class="cls-5" d="M309,699h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V701A2,2,0,0,1,309,699Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V702A1,1,0,0,1,310,701Zm-2,4h28v2H308v-2Z"/>
+      <path id="preset_icon-6" data-name="preset icon" class="cls-5" d="M309,735h26a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H309a2,2,0,0,1-2-2V737A2,2,0,0,1,309,735Zm1,2h24a1,1,0,0,1,1,1v16a1,1,0,0,1-1,1H310a1,1,0,0,1-1-1V738A1,1,0,0,1,310,737Zm-2,4h28v2H308v-2Z"/>
+    </g>
+  </g>
+  <g id="_1st_lever_browser" data-name="1st lever browser">
+    <rect id="sidebar_bg-2" data-name="sidebar bg" class="cls-8" width="257" height="1038"/>
+    <rect id="indicator-2" data-name="indicator" class="cls-2" y="260" width="257" height="37"/>
+    <g id="Favs">
+      <text id="EQ_Low_cut_Hall_Reverb_Operator_Sub_Ozone_6_Limiter_Amen_Break_" data-name="EQ Low cut Hall Reverb Operator Sub Ozone 6 Limiter Amen Break " class="cls-3" x="78.5" y="816.5">EQ Low cut<tspan x="78.5" dy="24">Hall Reverb</tspan><tspan x="78.5" dy="24">Operator Sub</tspan><tspan x="78.5" dy="24">Ozone 6 Limiter</tspan><tspan x="78.5" dy="24">Amen Break</tspan><tspan x="78.5" dy="24">Add Favorite...</tspan></text>
+      <g id="Label">
+        <rect id="line-2" data-name="line" class="cls-6" x="32" y="768" width="193" height="1"/>
+        <text id="Favorites" class="cls-7" x="32.315" y="756.237">Favorites</text>
+      </g>
+      <g id="Icons">
+        <g id="plug">
+          <rect class="cls-6" x="55" y="907" width="2" height="22"/>
+          <rect class="cls-6" x="51" y="907" width="4" height="2"/>
+          <rect class="cls-6" x="51" y="927" width="5" height="2"/>
+          <path id="Rounded_Rectangle_10" data-name="Rounded Rectangle 10" class="cls-5" d="M60,917H57v-2h3a1,1,0,0,0,0-2H57v-2h3A3,3,0,0,1,60,917Zm0,8H57v-2h3a1,1,0,0,0,0-2H57v-2h3A3,3,0,0,1,60,925ZM40,915h4v2H40a1,1,0,0,0,0,2h4v2H40A3,3,0,0,1,40,915Z"/>
+          <path class="cls-9" d="M44,917l7-9"/>
+          <path class="cls-9" d="M44,920l7,9"/>
+        </g>
+        <g id="Audio_FX" data-name="Audio FX">
+          <path class="cls-5" d="M35,809H61v2H35v-2Zm2-2h2v3H37v-3Zm2,3h2v3H39v-3Zm2-5h2v4H41v-4Zm6-2h2v14H47V803Zm6,6h2v6H53v-6Zm4,0h2v4H57v-4Zm-2-2h2v4H55v-4Z"/>
+          <rect id="Rounded_Rectangle_7" data-name="Rounded Rectangle 7" class="cls-10" x="43" y="799" width="10" height="22" rx="2" ry="2"/>
+        </g>
+        <g id="Audio_FX-2" data-name="Audio FX">
+          <path class="cls-5" d="M35,846H61v2H35v-2Zm2-2h2v3H37v-3Zm2,3h2v3H39v-3Zm2-5h2v4H41v-4Zm6-2h2v14H47V840Zm6,6h2v6H53v-6Zm4,0h2v4H57v-4Zm-2-2h2v4H55v-4Z"/>
+          <rect id="Rounded_Rectangle_7-2" data-name="Rounded Rectangle 7" class="cls-10" x="43" y="836" width="10" height="22" rx="2" ry="2"/>
+        </g>
+        <g id="Add">
+          <circle class="cls-10" cx="48" cy="990" r="13"/>
+          <path class="cls-5" d="M47,985h2v10H47V985Zm-4,4H53v2H43v-2Z"/>
+        </g>
+        <path id="Samples" class="cls-5" d="M34,953H61v2H34v-2Zm3-2h2v4H37v-4Zm4-2h2v6H41v-6Zm4-4h2v10H45V945Zm4,2h2v8H49v-8Zm4,4h2v4H53v-4Zm4,0h2v4H57v-4Zm-2,2h2v4H55v-4Zm-4,0h2v6H51v-6Zm-4,0h2v10H47V953Zm-4,0h2v8H43v-8Zm-4,0h2v4H39v-4Z"/>
+        <path id="instruments" class="cls-11" d="M35,880l7-8,12,17,7-9"/>
+      </g>
+    </g>
+    <g id="Categories">
+      <text id="Type_of_Sounds_Drums_Instruments_Audio_Effects_MIDI_Effects_Max" data-name="Type of Sounds Drums Instruments Audio Effects MIDI Effects Max" class="cls-3" x="78.5" y="176.5">Type of Sounds<tspan x="78.5" dy="24">Drums</tspan><tspan x="78.5" dy="24">Instruments</tspan><tspan x="78.5" dy="24">Audio Effects</tspan><tspan x="78.5" dy="24">MIDI Effects</tspan><tspan x="78.5" dy="24">Max for Live</tspan><tspan x="78.5" dy="24">Plug-ins</tspan><tspan x="78.5" dy="24">Clips</tspan><tspan x="78.5" dy="24">Samples</tspan></text>
+      <g id="Icons-2" data-name="Icons">
+        <g id="Sounds">
+          <rect id="Rounded_Rectangle_8" data-name="Rounded Rectangle 8" class="cls-6" x="49" y="156" width="2" height="22" rx="1" ry="1"/>
+          <path class="cls-5" d="M43.33,173.572c2.392-1.381,5.226-.949,6.33.964s0.061,4.583-2.33,5.964-5.226.949-6.33-.964S40.939,174.953,43.33,173.572Z"/>
+          <path class="cls-5" d="M51,156c0,6.063,7,7.358,7,12s-0.634,4.975-1,5,0.383-4.028-2-6a44.368,44.368,0,0,0-4-3v-8Z"/>
+        </g>
+        <path id="drums" class="cls-5" d="M35,195H47v10H35V195Zm2,2h8v6H37v-6Zm12-2H61v10H49V195Zm2,2h8v6H51v-6Zm-2,10H61v10H49V207Zm2,2h8v6H51v-6Zm-16-2H47v10H35V207Zm2,2h8v6H37v-6Z"/>
+        <path id="instruments-2" data-name="instruments" class="cls-11" d="M35,241l7-8,12,17,7-9"/>
+        <g id="Audio_FX-3" data-name="Audio FX">
+          <path class="cls-5" d="M35,277H61v2H35v-2Zm2-2h2v3H37v-3Zm2,3h2v3H39v-3Zm2-5h2v4H41v-4Zm6-2h2v14H47V271Zm6,6h2v6H53v-6Zm4,0h2v4H57v-4Zm-2-2h2v4H55v-4Z"/>
+          <rect id="Rounded_Rectangle_7-3" data-name="Rounded Rectangle 7" class="cls-10" x="43" y="267" width="10" height="22" rx="2" ry="2"/>
+        </g>
+        <g id="Midi_FX" data-name="Midi FX">
+          <path class="cls-5" d="M53,317h8v2H53v4a2,2,0,0,1-2,2H45a2,2,0,0,1-2-2v-8H35v-2h8v-2H39v-2h4v-4a2,2,0,0,1,2-2h6a2,2,0,0,1,2,2v4h4v2H53v6h0Zm-2-11a1,1,0,0,0-1-1H46a1,1,0,0,0-1,1v3h6v-3Zm0,5H45v2h3v2H45v7a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1v-3H48v-2h3v-6Z"/>
+        </g>
+        <g id="MAx">
+          <path class="cls-5" d="M59,357v3H57v-3H41v3H39v-3a3,3,0,0,1-3-3v-8a3,3,0,0,1,3-3v-3h2v3H57v-3h2v3a3,3,0,0,1,3,3v8A3,3,0,0,1,59,357Zm1-12H38v10H60V345Z"/>
+        </g>
+        <g id="plug-2" data-name="plug">
+          <rect class="cls-6" x="55" y="375" width="2" height="22"/>
+          <rect class="cls-6" x="51" y="375" width="4" height="2"/>
+          <rect class="cls-6" x="51" y="395" width="5" height="2"/>
+          <path id="Rounded_Rectangle_10-2" data-name="Rounded Rectangle 10" class="cls-5" d="M60,385H57v-2h3a1,1,0,0,0,0-2H57v-2h3A3,3,0,0,1,60,385Zm0,8H57v-2h3a1,1,0,0,0,0-2H57v-2h3A3,3,0,0,1,60,393ZM40,383h4v2H40a1,1,0,0,0,0,2h4v2H40A3,3,0,0,1,40,383Z"/>
+          <path class="cls-9" d="M44,385l7-9"/>
+          <path class="cls-9" d="M44,388l7,9"/>
+        </g>
+        <g id="clip">
+          <path id="Polygon_3" data-name="Polygon 3" class="cls-5" d="M52.98,422.993l-7.974,7V416Z"/>
+          <rect id="Rounded_Rectangle_11" data-name="Rounded Rectangle 11" class="cls-10" x="35" y="412" width="26" height="22" rx="2" ry="2"/>
+        </g>
+        <path id="Samples-2" data-name="Samples" class="cls-5" d="M34,458H61v2H34v-2Zm3-2h2v4H37v-4Zm4-2h2v6H41v-6Zm4-4h2v10H45V450Zm4,2h2v8H49v-8Zm4,4h2v4H53v-4Zm4,0h2v4H57v-4Zm-2,2h2v4H55v-4Zm-4,0h2v6H51v-6Zm-4,0h2v10H47V458Zm-4,0h2v8H43v-8Zm-4,0h2v4H39v-4Z"/>
+      </g>
+      <g id="Label-2" data-name="Label">
+        <rect id="line-3" data-name="line" class="cls-6" x="32" y="131" width="193" height="1"/>
+        <text id="Categories-2" data-name="Categories" class="cls-7" x="32.315" y="119.236">Categories</text>
+      </g>
+    </g>
+    <g id="Places">
+      <text id="Packs_User_Library_Current_Project_Add_Folder..." data-name="Packs User Library Current Project Add Folder..." class="cls-3" x="78.5" y="585.5">Packs<tspan x="78.5" dy="24">User Library</tspan><tspan x="78.5" dy="24">Current Project</tspan><tspan x="78.5" dy="24">Add Folder...</tspan></text>
+      <g id="Icons-3" data-name="Icons">
+        <g id="Packs">
+          <rect id="Rounded_Rectangle_12" data-name="Rounded Rectangle 12" class="cls-10" x="33" y="565" width="30" height="28" rx="2" ry="2"/>
+          <path class="cls-5" d="M36,568H60v2H36v-2Zm0,20H60v2H36v-2Z"/>
+        </g>
+        <path id="User" class="cls-11" d="M41,619H55a8,8,0,0,1,0,16H41A8,8,0,0,1,41,619Zm-10,8H68v11H31V627Zm17-25a8,8,0,1,1-8,8A8,8,0,0,1,48,602Z"/>
+        <g id="current_project" data-name="current project">
+          <path id="Rounded_Rectangle_14" data-name="Rounded Rectangle 14" class="cls-11" d="M35,641H61a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H35a2,2,0,0,1-2-2V643A2,2,0,0,1,35,641Zm0-4H45a2,2,0,0,1,2,2v11a2,2,0,0,1-2,2H35a2,2,0,0,1-2-2V639A2,2,0,0,1,35,637Z"/>
+          <path class="cls-5" d="M45,649h6v2H45v-2Zm8,0h6v2H53v-2Zm-8,4h6v2H45v-2Zm8,4h6v2H53v-2Z"/>
+        </g>
+        <g id="Add-2" data-name="Add">
+          <circle class="cls-10" cx="48" cy="687" r="13"/>
+          <path class="cls-5" d="M47,682h2v10H47V682Zm-4,4H53v2H43v-2Z"/>
+        </g>
+      </g>
+      <g id="Label-3" data-name="Label">
+        <rect id="line-4" data-name="line" class="cls-6" x="32" y="540" width="193" height="1"/>
+        <text id="Places-2" data-name="Places" class="cls-7" x="32.315" y="528.237">Places</text>
+      </g>
+    </g>
+  </g>
+  <g id="Search">
+    <rect id="BG" class="cls-2" x="257" width="384" height="76"/>
+    <rect id="color" class="cls-8" x="1" width="640" height="4"/>
+    <path id="icon_search" data-name="icon search" class="cls-5" d="M604.109,48.559h-0.77l-0.273-.263a6.342,6.342,0,1,0-.682.682l0.263,0.273v0.77l4.874,4.865,1.453-1.453Zm-5.849,0a4.387,4.387,0,1,1,4.387-4.387A4.381,4.381,0,0,1,598.26,48.559Z"/>
+    <text id="Search_for_anything" data-name="Search for anything" class="cls-3" x="286.641" y="53.727">Search for anything</text>
+  </g>
+  <g id="Preview">
+    <rect id="bg-2" data-name="bg" class="cls-8" x="259" y="910" width="382" height="64"/>
+    <g id="headphones_btn" data-name="headphones btn">
+      <rect id="bg-3" data-name="bg" class="cls-1" x="288" y="928" width="44" height="29" rx="2" ry="2"/>
+      <path id="headphones_icon" data-name="headphones icon" class="cls-5" d="M310.5,934a8.283,8.283,0,0,0-8.5,8.051v6.261A2.757,2.757,0,0,0,304.832,951h2.832V943.84h-3.776v-1.789a6.617,6.617,0,0,1,13.215,0v1.789h-3.776V951h2.832a2.757,2.757,0,0,0,2.832-2.684v-6.261A8.283,8.283,0,0,0,310.5,934Z"/>
+    </g>
+    <g id="Sample">
+      <path class="cls-5" d="M352,918h2v25h-2V918Zm4,7h2v18h-2V925Zm4,4h2v14h-2V929Zm4,2h2v12h-2V931Zm4-13h2v25h-2V918Zm4,7h2v18h-2V925Zm4,12h2v6h-2v-6Zm4,3h2v3h-2v-3Zm4-16h2v19h-2V924Zm4,6h2v13h-2V930Zm4,2h2v11h-2V932Zm4,6h2v5h-2v-5Zm4,3h2v2h-2v-2Zm4-12h2v14h-2V929Zm4,4h2v10h-2V933Zm4,0h2v10h-2V933Zm4,0h2v10h-2V933Zm4-9h2v19h-2V924Zm4,4h2v15h-2V928Zm4,5h2v10h-2V933Zm4-9h2v19h-2V924Zm4,3h2v16h-2V927Zm4,10h2v6h-2v-6Zm4-18h2v24h-2V919Zm4,0h2v24h-2V919Zm4,4h2v20h-2V923Zm4,3h2v17h-2V926Zm4,6h2v11h-2V932Zm4-4h2v15h-2V928Zm4,4h2v11h-2V932Zm4,7h2v4h-2v-4Zm4,1h2v3h-2v-3Zm4,0h2v3h-2v-3Zm4-16h2v19h-2V924Zm4,5h2v14h-2V929Zm4,0h2v14h-2V929Zm4,7h2v7h-2v-7Zm4-17h2v24h-2V919Zm4,4h2v20h-2V923Zm4-2h2v22h-2V921Zm4,8h2v14h-2V929Zm4,7h2v7h-2v-7Zm4,2h2v5h-2v-5Zm4,3h2v2h-2v-2Zm4,0h2v2h-2v-2Zm4-7h2v9h-2v-9Zm4,4h2v5h-2v-5Zm4,3h2v2h-2v-2Zm4-22h2v24h-2V919Zm4,4h2v20h-2V923Zm4-2h2v22h-2V921Zm4,8h2v14h-2V929Zm4,7h2v7h-2v-7Zm4-17h2v24h-2V919Zm4,2h2v22h-2V921Zm4,2h2v20h-2V923Zm4,4h2v16h-2V927Zm4,8h2v8h-2v-8Zm4-4h2v12h-2V931Zm4,8h2v4h-2v-4Zm4-20h2v24h-2V919Zm4,0h2v24h-2V919Zm4,8h2v16h-2V927Zm4,1h2v15h-2V928Zm4,2h2v13h-2V930Zm4,3h2v10h-2V933Zm4-14h2v24h-2V919Zm4,10h2v14h-2V929Zm4-7h2v21h-2V922Zm4,16h2v5h-2v-5Zm4,3h2v2h-2v-2Zm4-12h2v14h-2V929Zm4,4h2v10h-2V933Zm4-12h2v22h-2V921Zm4,5h2v17h-2V926Zm4,2h2v15h-2V928Zm4,4h2v11h-2V932Zm4,2h2v9h-2v-9Zm4,4h2v5h-2v-5Zm4-9h2v14h-2V929ZM352,941h2v25h-2V941Zm4,0h2v18h-2V941Zm4,0h2v14h-2V941Zm4,0h2v12h-2V941Zm4,0h2v25h-2V941Zm4,0h2v18h-2V941Zm4,0h2v6h-2v-6Zm4,0h2v3h-2v-3Zm4,0h2v19h-2V941Zm4,0h2v13h-2V941Zm4,0h2v11h-2V941Zm4,0h2v5h-2v-5Zm4,0h2v2h-2v-2Zm4,0h2v14h-2V941Zm4,0h2v10h-2V941Zm4,0h2v8h-2v-8Zm4,0h2v8h-2v-8Zm4,0h2v19h-2V941Zm4,0h2v15h-2V941Zm4,0h2v8h-2v-8Zm4,0h2v19h-2V941Zm4,0h2v16h-2V941Zm4,0h2v6h-2v-6Zm4,0h2v24h-2V941Zm4,0h2v24h-2V941Zm4,0h2v20h-2V941Zm4,0h2v17h-2V941Zm4,0h2v9h-2v-9Zm4,0h2v15h-2V941Zm4,0h2v11h-2V941Zm4,0h2v4h-2v-4Zm4,0h2v3h-2v-3Zm4,0h2v3h-2v-3Zm4,0h2v19h-2V941Zm4,0h2v14h-2V941Zm4,0h2v14h-2V941Zm4,0h2v7h-2v-7Zm4,0h2v24h-2V941Zm4,0h2v20h-2V941Zm4,0h2v22h-2V941Zm4,0h2v14h-2V941Zm4,0h2v7h-2v-7Zm4,0h2v5h-2v-5Zm4,0h2v2h-2v-2Zm4,0h2v2h-2v-2Zm4,0h2v9h-2v-9Zm4,0h2v5h-2v-5Zm4,0h2v2h-2v-2Zm4,0h2v24h-2V941Zm4,0h2v20h-2V941Zm4,0h2v22h-2V941Zm4,0h2v14h-2V941Zm4,0h2v7h-2v-7Zm4,0h2v24h-2V941Zm4,0h2v22h-2V941Zm4,0h2v20h-2V941Zm4,0h2v16h-2V941Zm4,0h2v8h-2v-8Zm4,0h2v12h-2V941Zm4,0h2v4h-2v-4Zm4,0h2v24h-2V941Zm4,0h2v24h-2V941Zm4,0h2v16h-2V941Zm4,0h2v15h-2V941Zm4,0h2v13h-2V941Zm4,0h2v10h-2V941Zm4,0h2v24h-2V941Zm4,0h2v14h-2V941Zm4,0h2v21h-2V941Zm4,0h2v5h-2v-5Zm4,2h2v-2h-2v2Zm4-2h2v14h-2V941Zm4,0h2v8h-2v-8Zm4,0h2v22h-2V941Zm4,0h2v17h-2V941Zm4,0h2v15h-2V941Zm4,0h2v9h-2v-9Zm4,0h2v9h-2v-9Zm4,0h2v5h-2v-5Zm4,0h2v14h-2V941Z"/>
+      <rect class="cls-12" x="346" y="904" width="77" height="80"/>
+    </g>
+  </g>
+  <g id="Groove">
+    <rect id="BG-4" data-name="BG" class="cls-1" x="1" y="974" width="640" height="64"/>
+    <rect id="divider" class="cls-2" x="1" y="974" width="640" height="2"/>
+    <g id="Amount">
+      <text id="Groove_Amount" data-name="Groove Amount" class="cls-3" x="356.64" y="1013.727">Groove Amount</text>
+      <g id="groove_slider" data-name="groove slider">
+        <path id="bg-5" data-name="bg" class="cls-13" d="M530.132,1006h76.737"/>
+        <path id="value" class="cls-14" d="M530.3,1006h30.4"/>
+      </g>
+    </g>
+    <text id="Groove-2" data-name="Groove" class="cls-15" x="77.641" y="1013.727">Groove</text>
+    <g id="Collapse">
+      <circle class="cls-6" cx="46" cy="1006" r="13"/>
+      <path id="triangle-18" data-name="triangle" class="cls-16" d="M50,1006l-6-5.51v11.01Z"/>
+    </g>
+    <path id="drag_affordance" data-name="drag affordance" class="cls-17" d="M14.5,995a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,14.5,995Zm5,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,19.5,995Zm-5,5a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,14.5,1000Zm5,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,19.5,1000Zm-5,5a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,14.5,1005Zm5,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,19.5,1005Zm-5,5a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,14.5,1010Zm5,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,19.5,1010Zm-5,5a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,14.5,1015Zm5,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,19.5,1015Z"/>
+  </g>
+  <rect id="Scroll" class="cls-1" x="246" y="336" width="6" height="501" rx="3" ry="3"/>
+  <rect id="Scroll-2" data-name="Scroll" class="cls-8" x="628" y="113" width="6" height="173" rx="3" ry="3"/>
+  <g id="Header">
+    <path id="drag_affordance-2" data-name="drag affordance" class="cls-17" d="M14.5,36A1.5,1.5,0,1,1,13,37.5,1.5,1.5,0,0,1,14.5,36Zm5,0A1.5,1.5,0,1,1,18,37.5,1.5,1.5,0,0,1,19.5,36Zm-5,5A1.5,1.5,0,1,1,13,42.5,1.5,1.5,0,0,1,14.5,41Zm5,0A1.5,1.5,0,1,1,18,42.5,1.5,1.5,0,0,1,19.5,41Zm-5,5A1.5,1.5,0,1,1,13,47.5,1.5,1.5,0,0,1,14.5,46Zm5,0A1.5,1.5,0,1,1,18,47.5,1.5,1.5,0,0,1,19.5,46Zm-5,5A1.5,1.5,0,1,1,13,52.5,1.5,1.5,0,0,1,14.5,51Zm5,0A1.5,1.5,0,1,1,18,52.5,1.5,1.5,0,0,1,19.5,51Zm-5,5A1.5,1.5,0,1,1,13,57.5,1.5,1.5,0,0,1,14.5,56Zm5,0A1.5,1.5,0,1,1,18,57.5,1.5,1.5,0,0,1,19.5,56Z"/>
+    <g id="Collapse-2" data-name="Collapse">
+      <circle class="cls-6" cx="46" cy="47" r="13"/>
+      <path id="triangle-19" data-name="triangle" class="cls-16" d="M50,47l-6-5.5V52.5Z"/>
+    </g>
+    <g id="fullscreen_btn" data-name="fullscreen btn">
+      <path id="fullscreen" class="cls-5" d="M213,52h-2v5h5V55h-3V52Zm-2-7h2V42h3V40h-5v5Zm16,10h-3v2h5V52h-2v3Zm-3-15v2h3v3h2V40h-5Z"/>
+    </g>
+    <text id="Browser" class="cls-15" x="77.641" y="54.727">Browser</text>
+  </g>
+</svg>

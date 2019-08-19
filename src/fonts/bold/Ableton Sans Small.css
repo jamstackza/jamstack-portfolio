@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ableton Sans Small';
+    src: url('fonts/AbletonSansSmall-Bold.eot');
+    src: url('fonts/AbletonSansSmall-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/AbletonSansSmall-Bold.woff2') format('woff2'),
+         url('fonts/AbletonSansSmall-Bold.woff') format('woff'),
+         url('fonts/AbletonSansSmall-Bold.ttf')  format('truetype'),
+         url('fonts/AbletonSansSmall-Bold.svg#Ableton Sans Small') format('svg');
+}

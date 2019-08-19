@@ -1,0 +1,134 @@
+<svg id="History" xmlns="http://www.w3.org/2000/svg" width="640" height="522" viewBox="0 0 640 522">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505050;
+      }
+
+      .cls-16, .cls-2 {
+        fill: #353535;
+      }
+
+      .cls-12, .cls-3 {
+        fill: #202020;
+      }
+
+      .cls-12, .cls-13, .cls-17, .cls-4, .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-13, .cls-17, .cls-4, .cls-5, .cls-8, .cls-9 {
+        fill: #b5b2b1;
+      }
+
+      .cls-10, .cls-12, .cls-13, .cls-17, .cls-4, .cls-5, .cls-9 {
+        font-family: Ubuntu;
+      }
+
+      .cls-10, .cls-5 {
+        text-anchor: end;
+      }
+
+      .cls-15, .cls-6 {
+        fill: #8d8d8d;
+      }
+
+      .cls-7 {
+        fill: #8c8c8b;
+      }
+
+      .cls-10, .cls-9 {
+        font-size: 16px;
+        text-transform: uppercase;
+      }
+
+      .cls-11 {
+        fill: #ffc907;
+      }
+
+      .cls-12, .cls-13 {
+        font-weight: 500;
+      }
+
+      .cls-14 {
+        fill: none;
+        stroke: #ffc907;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-15, .cls-16 {
+        fill-rule: evenodd;
+      }
+
+      .cls-17 {
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect id="bg" class="cls-1" width="640" height="522"/>
+  <g id="Undos">
+    <rect class="cls-2" x="-10" y="277" width="772" height="184"/>
+    <rect id="indicator" class="cls-3" y="400" width="640" height="37"/>
+    <text id="Insert_Clip_Change_Track_Name_Insert_Audio_Track_Change_Routing" data-name="Insert Clip Change Track Name Insert Audio Track Change Routing" class="cls-4" x="31.5" y="309.5">Insert Clip<tspan x="31.5" dy="24">Change Track Name</tspan><tspan x="31.5" dy="24">Insert Audio Track</tspan><tspan x="31.5" dy="24">Change Routing</tspan><tspan x="31.5" dy="24">Change Panning to Balance</tspan><tspan x="31.5" dy="24">Set Track Delay</tspan><tspan x="31.5" dy="24">Change “Tv Noise” Reverb</tspan><tspan x="31.5" dy="24">Draw Notes</tspan><tspan x="31.5" dy="24">Draw Notes</tspan><tspan x="31.5" dy="24">Draw Notes</tspan><tspan x="31.5" dy="24">Insert Device</tspan><tspan x="31.5" dy="24">Change Track Volume</tspan></text>
+    <text id="Wed_Apr_26_01:05:13_Wed_Apr_26_01:05:44_Wed_Apr_26_01:06:08_Wed" data-name="Wed Apr 26 01:05:13 Wed Apr 26 01:05:44 Wed Apr 26 01:06:08 Wed" class="cls-5" x="609.5" y="309.5">Wed Apr 26 01:05:13<tspan x="609.5" dy="24">Wed Apr 26 01:05:44</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:06:08</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:06:41</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:06:52</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:07:13</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:07:52</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:07:55</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:07:59</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:09:56</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:10:25</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:11:33</tspan></text>
+    <text id="Insert_Clip_Change_Track_Name_Insert_Audio_Track_Change_Routing-2" data-name="Insert Clip Change Track Name Insert Audio Track Change Routing" class="cls-4" x="31.5" y="309.5">Insert Clip<tspan x="31.5" dy="24">Change Track Name</tspan><tspan x="31.5" dy="24">Insert Audio Track</tspan><tspan x="31.5" dy="24">Change Routing</tspan><tspan class="cls-6" x="31.5" dy="24">Change Panning to Balance</tspan><tspan class="cls-6" x="31.5" dy="24">Set Track Delay</tspan><tspan class="cls-6" x="31.5" dy="24">Change “Tv Noise” Reverb</tspan><tspan class="cls-6" x="31.5" dy="24">Draw Notes</tspan><tspan class="cls-6" x="31.5" dy="24">Draw Notes</tspan><tspan class="cls-6" x="31.5" dy="24">Draw Notes</tspan><tspan class="cls-6" x="31.5" dy="24">Insert Device</tspan><tspan class="cls-6" x="31.5" dy="24">Change Track Volume</tspan></text>
+    <text id="Wed_Apr_26_01:05:13_Wed_Apr_26_01:05:44_Wed_Apr_26_01:06:08_Wed-2" data-name="Wed Apr 26 01:05:13 Wed Apr 26 01:05:44 Wed Apr 26 01:06:08 Wed" class="cls-5" x="609.5" y="309.5">Wed Apr 26 01:05:13<tspan x="609.5" dy="24">Wed Apr 26 01:05:44</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:06:08</tspan><tspan x="609.5" dy="24">Wed Apr 26 01:06:41</tspan><tspan class="cls-7" x="609.5" dy="24">Wed Apr 26 01:06:52</tspan><tspan class="cls-7" x="609.5" dy="24">Wed Apr 26 01:07:13</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:07:52</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:07:55</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:07:59</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:09:56</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:10:25</tspan><tspan class="cls-6" x="609.5" dy="24">Wed Apr 26 01:11:33</tspan></text>
+    <g id="Label">
+      <rect id="line" class="cls-8" x="32" y="259" width="579" height="1"/>
+      <text id="UNDO" class="cls-9" x="32.315" y="247.237">UNDO</text>
+      <text id="Time" class="cls-10" x="610.315" y="247.237">Time</text>
+    </g>
+  </g>
+  <g id="Footer">
+    <rect id="BG-2" data-name="BG" class="cls-1" y="458" width="640" height="64"/>
+    <g id="Create_Snapshot" data-name="Create Snapshot">
+      <rect id="Rounded_Rectangle_524" data-name="Rounded Rectangle 524" class="cls-11" x="488" y="477" width="120" height="29" rx="2" ry="2"/>
+      <text id="Snapshot" class="cls-12" x="503.64" y="497.726">Snapshot</text>
+    </g>
+    <g id="Delete">
+      <rect id="Rounded_Rectangle_524-2" data-name="Rounded Rectangle 524" class="cls-2" x="33" y="477" width="96" height="29" rx="2" ry="2"/>
+      <text id="Delete-2" data-name="Delete" class="cls-13" x="48.641" y="497.726">Delete</text>
+    </g>
+  </g>
+  <g id="Snapshots">
+    <g id="snapshot-2" data-name="snapshot">
+      <g id="check_box" data-name="check box">
+        <rect id="check" class="cls-14" x="33" y="152" width="14" height="14" rx="2" ry="2"/>
+        <rect id="check_inside" data-name="check inside" class="cls-11" x="37" y="156" width="6" height="6" rx="2" ry="2"/>
+      </g>
+      <text id="Distorted_Synth_Final_V7" data-name="Distorted Synth Final V7" class="cls-13" x="56.641" y="165.727">Distorted Synth Final V7</text>
+    </g>
+    <g id="snapshot-3" data-name="snapshot">
+      <g id="check_box-2" data-name="check box">
+        <rect id="check-2" data-name="check" class="cls-14" x="33" y="188" width="14" height="14" rx="2" ry="2"/>
+      </g>
+      <text id="Weekend_Snapshot_5" data-name="Weekend Snapshot 5" class="cls-13" x="56.641" y="201.726">Weekend Snapshot 5</text>
+    </g>
+    <g id="Label-2" data-name="Label">
+      <rect id="line-2" data-name="line" class="cls-8" x="32" y="128" width="579" height="1"/>
+      <text id="SNAPSHOTS-2" data-name="SNAPSHOTS" class="cls-9" x="32.315" y="116.237">SNAPSHOTS</text>
+    </g>
+    <g id="Revert">
+      <rect id="Rounded_Rectangle_524-3" data-name="Rounded Rectangle 524" class="cls-2" x="515" y="145" width="96" height="29" rx="2" ry="2"/>
+      <text id="Revert-2" data-name="Revert" class="cls-13" x="530.641" y="165.727">Revert</text>
+    </g>
+    <g id="Revert-3" data-name="Revert">
+      <rect id="Rounded_Rectangle_524-4" data-name="Rounded Rectangle 524" class="cls-2" x="515" y="182" width="96" height="29" rx="2" ry="2"/>
+      <text id="Revert-4" data-name="Revert" class="cls-13" x="530.641" y="202.727">Revert</text>
+    </g>
+  </g>
+  <g id="Header">
+    <path id="drag_affordance" data-name="drag affordance" class="cls-15" d="M13.5,38A1.5,1.5,0,1,1,12,39.5,1.5,1.5,0,0,1,13.5,38Zm5,0A1.5,1.5,0,1,1,17,39.5,1.5,1.5,0,0,1,18.5,38Zm-5,5A1.5,1.5,0,1,1,12,44.5,1.5,1.5,0,0,1,13.5,43Zm5,0A1.5,1.5,0,1,1,17,44.5,1.5,1.5,0,0,1,18.5,43Zm-5,5A1.5,1.5,0,1,1,12,49.5,1.5,1.5,0,0,1,13.5,48Zm5,0A1.5,1.5,0,1,1,17,49.5,1.5,1.5,0,0,1,18.5,48Zm-5,5A1.5,1.5,0,1,1,12,54.5,1.5,1.5,0,0,1,13.5,53Zm5,0A1.5,1.5,0,1,1,17,54.5,1.5,1.5,0,0,1,18.5,53Zm-5,5A1.5,1.5,0,1,1,12,59.5,1.5,1.5,0,0,1,13.5,58Zm5,0A1.5,1.5,0,1,1,17,59.5,1.5,1.5,0,0,1,18.5,58Z"/>
+    <g id="Collapse">
+      <circle class="cls-8" cx="45" cy="49" r="13"/>
+      <path id="triangle" class="cls-16" d="M49,49l-6-5.5V54.5Z"/>
+    </g>
+    <g id="menu">
+      <circle class="cls-8" cx="606" cy="43" r="2"/>
+      <circle class="cls-8" cx="606" cy="50" r="2"/>
+      <circle class="cls-8" cx="606" cy="57" r="2"/>
+    </g>
+    <text id="History-2" data-name="History" class="cls-17" x="76.641" y="56.727">History</text>
+  </g>
+</svg>

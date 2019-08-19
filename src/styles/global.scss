@@ -1,0 +1,11 @@
+@import './mixins';
+@import '~antd/dist/antd.css';
+@import '/node_modules/react-grid-layout/css/styles.css';
+@import '/node_modules/react-resizable/css/styles.css';
+// Here you put all global css rules.
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}

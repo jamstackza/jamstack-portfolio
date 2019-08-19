@@ -1,0 +1,17 @@
+@import '../../styles/mixins';
+
+.home-layout-ui-desktop {
+
+}
+
+body {
+  background-color: #222;
+  margin: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}

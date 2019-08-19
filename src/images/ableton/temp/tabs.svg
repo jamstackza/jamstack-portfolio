@@ -1,0 +1,99 @@
+<svg id="tabs" xmlns="http://www.w3.org/2000/svg" width="2880" height="50" viewBox="0 0 2880 50">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: #2a2a2a;
+      }
+
+      .cls-10, .cls-11, .cls-2 {
+        fill: #202020;
+      }
+
+      .cls-3 {
+        fill: #353535;
+      }
+
+      .cls-3, .cls-7 {
+        stroke: #202020;
+        stroke-width: 2px;
+      }
+
+      .cls-11, .cls-3, .cls-4, .cls-7, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #b5b2b1;
+      }
+
+      .cls-10, .cls-5, .cls-8 {
+        font-size: 20px;
+        font-family: Ubuntu;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: #ffc907;
+      }
+
+      .cls-8 {
+        fill: #8d8d8d;
+      }
+
+      .cls-9 {
+        fill: #0bcae6;
+      }
+    </style>
+  </defs>
+  <rect id="tabs_bg" data-name="tabs bg" class="cls-1" width="2880" height="50"/>
+  <rect id="line" class="cls-2" y="48" width="2880" height="2"/>
+  <rect id="Separator" class="cls-2" x="2463" y="-2" width="2" height="52"/>
+  <g id="Tab_1_active" data-name="Tab 1 active">
+    <path id="tab_active" data-name="tab active" class="cls-3" d="M0.052,0h511.9V48H0.052V0Z"/>
+    <path id="close" class="cls-4" d="M34.55,18.429L46.571,30.45,44.45,32.571,32.429,20.55Zm9.9,0,2.121,2.121L34.55,32.571,32.429,30.45Z"/>
+    <text id="Supercool_Track_Ver_17_Supercool_Project_" data-name="Supercool Track Ver 17 [Supercool Project] *" class="cls-5" x="61.633" y="32.491">Supercool Track Ver 17 [Supercool Project] <tspan class="cls-6">*</tspan></text>
+  </g>
+  <g id="Tab_3" data-name="Tab 3">
+    <path id="tab" class="cls-7" d="M514.119,0H807.88V48H514.119V0Z"/>
+    <path id="close-2" data-name="close" class="cls-4" d="M549.55,18.429L561.571,30.45l-2.121,2.121L547.429,20.55Zm9.9,0,2.121,2.121L549.55,32.571l-2.121-2.121Z"/>
+    <text id="Track_Final_Project_" data-name="Track Final [Project] " class="cls-8" x="576.634" y="32.491">Track Final [Project] </text>
+  </g>
+  <g id="more_tabs" data-name="more tabs">
+    <rect id="bg" class="cls-2" x="2388" y="9" width="44" height="29" rx="2" ry="2"/>
+    <path id="menu_icon" data-name="menu icon" class="cls-4" d="M2416,22a2,2,0,1,1-2,2A2,2,0,0,1,2416,22Zm-6,0a2,2,0,1,1-2,2A2,2,0,0,1,2410,22Zm-6,0a2,2,0,1,1-2,2A2,2,0,0,1,2404,22Z"/>
+  </g>
+  <g id="Add_btn" data-name="Add btn">
+    <rect id="bg-2" data-name="bg" class="cls-2" x="838" y="9" width="44" height="29" rx="2" ry="2"/>
+    <path id="Expand" class="cls-4" d="M860,16h2V30h-2V16Zm-6,6h14v2H854V22Z"/>
+  </g>
+  <g id="Views_2" data-name="Views 2">
+    <g id="IO_btn" data-name="IO btn">
+      <rect id="bg-3" data-name="bg" class="cls-2" x="2495" y="9" width="44" height="29" rx="2" ry="2"/>
+      <text id="I_O" data-name="I/O" class="cls-5" x="2503.048" y="30.904">I/O</text>
+    </g>
+    <g id="Send_btn" data-name="Send btn">
+      <path id="bg-4" data-name="bg" class="cls-9" d="M2595,36h0v2h-42a2,2,0,0,1-2-2V11a2,2,0,0,1,2-2h42v2h0V36Z"/>
+      <text id="S" class="cls-10" x="2568.05" y="30.904">S</text>
+    </g>
+    <g id="Receive_btn" data-name="Receive btn">
+      <path id="bg-5" data-name="bg" class="cls-9" d="M2595,36h0v2h42a2,2,0,0,0,2-2V11a2,2,0,0,0-2-2h-42v2h0V36Z"/>
+      <text id="R" class="cls-10" x="2611.048" y="30.904">R</text>
+    </g>
+    <g id="Mixer_btn" data-name="Mixer btn">
+      <path id="bg-6" data-name="bg" class="cls-11" d="M2695,36h0v2h-42a2,2,0,0,1-2-2V11a2,2,0,0,1,2-2h42v2h0V36Z"/>
+      <text id="M" class="cls-5" x="2664.049" y="30.904">M</text>
+    </g>
+    <g id="Expand_Mixer_btn" data-name="Expand Mixer btn">
+      <path id="bg-7" data-name="bg" class="cls-9" d="M2695,36h0v2h42a2,2,0,0,0,2-2V11a2,2,0,0,0-2-2h-42v2h0V36Z"/>
+      <text id="E" class="cls-10" x="2711.051" y="30.904">E</text>
+    </g>
+    <g id="Delay_btn" data-name="Delay btn">
+      <rect id="bg-8" data-name="bg" class="cls-2" x="2751" y="9" width="44" height="29" rx="2" ry="2"/>
+      <text id="D" class="cls-5" x="2766.05" y="30.904">D</text>
+    </g>
+    <g id="Crossfade_btn" data-name="Crossfade btn">
+      <rect id="bg-9" data-name="bg" class="cls-2" x="2807" y="9" width="44" height="29" rx="2" ry="2"/>
+      <text id="X" class="cls-5" x="2822.049" y="30.904">X</text>
+    </g>
+  </g>
+</svg>

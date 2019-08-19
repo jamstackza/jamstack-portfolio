@@ -1,0 +1,71 @@
+<svg id="Footer_" data-name="Footer " xmlns="http://www.w3.org/2000/svg" width="1726" height="29" viewBox="0 0 1726 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8d8d8d;
+      }
+
+      .cls-1, .cls-3, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #505050;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #b5b2b1;
+      }
+
+      .cls-4 {
+        fill: #353535;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+        font-family: Ubuntu;
+        font-weight: 500;
+      }
+
+      .cls-6, .cls-7 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        stroke: #353535;
+      }
+
+      .cls-7 {
+        stroke: #0bcae6;
+      }
+
+      .cls-8 {
+        fill: #5a5a5a;
+      }
+    </style>
+  </defs>
+  <path id="drag_affordance" data-name="drag affordance" class="cls-1" d="M16.5,22A1.5,1.5,0,1,1,15,23.5,1.5,1.5,0,0,1,16.5,22Zm5,0A1.5,1.5,0,1,1,20,23.5,1.5,1.5,0,0,1,21.5,22Zm-5,5A1.5,1.5,0,1,1,15,28.5,1.5,1.5,0,0,1,16.5,27Zm5,0A1.5,1.5,0,1,1,20,28.5,1.5,1.5,0,0,1,21.5,27Zm-5,5A1.5,1.5,0,1,1,15,33.5,1.5,1.5,0,0,1,16.5,32Zm5,0A1.5,1.5,0,1,1,20,33.5,1.5,1.5,0,0,1,21.5,32Zm-5,5A1.5,1.5,0,1,1,15,38.5,1.5,1.5,0,0,1,16.5,37Zm5,0A1.5,1.5,0,1,1,20,38.5,1.5,1.5,0,0,1,21.5,37Zm-5,5A1.5,1.5,0,1,1,15,43.5,1.5,1.5,0,0,1,16.5,42Zm5,0A1.5,1.5,0,1,1,20,43.5,1.5,1.5,0,0,1,21.5,42Z" transform="translate(-15 -18)"/>
+  <g id="Collapse_L" data-name="Collapse L">
+    <circle class="cls-2" cx="33" cy="15" r="13"/>
+    <path id="triangle" class="cls-3" d="M52,33l-6-5.5V38.5Z" transform="translate(-15 -18)"/>
+  </g>
+  <g id="dropdown_workspace" data-name="dropdown workspace">
+    <rect id="Rounded_Rectangle_524" data-name="Rounded Rectangle 524" class="cls-4" x="209" width="142" height="29" rx="2" ry="2"/>
+    <path id="triangle-2" data-name="triangle" class="cls-3" d="M347.512,36.012l-5.5-6.018h11Z" transform="translate(-15 -18)"/>
+    <text id="Essentials" class="cls-5" x="218.641" y="20.727">Essentials</text>
+    <text id="Workspace" class="cls-5" x="81.641" y="20.727">Workspace</text>
+  </g>
+  <g id="Display_zoom_slide" data-name="Display zoom slide">
+    <path class="cls-6" d="M555,31h91" transform="translate(-15 -18)"/>
+    <path class="cls-7" d="M555,31h46" transform="translate(-15 -18)"/>
+    <text id="Display_Zoom" data-name="Display Zoom" class="cls-5" x="393.64" y="20.727">Display Zoom</text>
+  </g>
+  <g id="Detail_Level_slide" data-name="Detail Level slide">
+    <path class="cls-6" d="M827,31h91" transform="translate(-15 -18)"/>
+    <path class="cls-7" d="M827,31h76" transform="translate(-15 -18)"/>
+    <text id="Detail_Level" data-name="Detail Level" class="cls-5" x="674.642" y="20.727">Detail Level</text>
+  </g>
+  <text id="Latency:_44_samples_1ms_Redesign_by_Nenad_Milosevic_http:_n" data-name="Latency: 44 samples (1ms)  Redesign by Nenad Milosevic http://n" class="cls-5" x="943.617" y="21.234">Latency: 44 samples (1ms)<tspan class="cls-8">  Redesign by Nenad Milosevic http://nenadmilosevic.co/</tspan></text>
+</svg>
