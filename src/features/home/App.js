@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import PropTypes from 'prop-types';
 
 /*
@@ -15,11 +15,17 @@ export default class App extends Component {
     children: '',
   };
 
+  /** 
+   * TODO
+   * @return {!*}
+   */
   render() {
     return (
+      <Fragment>
       <div className="home-app">
         <div className="page-container">{this.props.children}</div>
       </div>
+      </Fragment>
     );
   }
 }
