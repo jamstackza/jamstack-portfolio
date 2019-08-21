@@ -7,6 +7,7 @@ import {
   Api,
   Markup,
   Overview,
+  Layout
 } from './';
 
 export default {
@@ -15,9 +16,10 @@ export default {
   childRoutes: [
     { path: 'default-page',
       name: 'Default page',
-      component: DefaultPage,
+      component: Layout,
       isIndex: true,
     },
+    { path: 'landing', name: 'Home', component: DefaultPage },
     { path: 'technologies', name: 'Technologies', component: Technologies },
     { path: 'devops', name: 'Devops', component: Devops },
     { path: 'security', name: 'Security', component: Security },

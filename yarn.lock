@@ -65,6 +65,16 @@
   dependencies:
     commander "^2.15.1"
 
+"@hot-loader/react-dom@^16.9.0":
+  version "16.9.0"
+  resolved "https://registry.yarnpkg.com/@hot-loader/react-dom/-/react-dom-16.9.0.tgz#7782cec9d78172f3e4c86a317ba7a73bd0271acd"
+  integrity sha512-MsOdCBB7c5YNyB4iDDct+tS7AihvYyfwZVV+z/QnbTjPgxH98kqIDXO92nU7tLXp0OtYFErHZfcWjtszP/572w==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+    scheduler "^0.15.0"
+
 "@mason-api/react-sdk@^3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@mason-api/react-sdk/-/react-sdk-3.6.0.tgz#d8ab73649e2fbd72369456ef13c4dc566be90050"
@@ -8792,7 +8802,7 @@ react-visibility-sensor@^3.11.0:
     create-react-class "^15.5.1"
     prop-types "^15.5.4"
 
-react@^16.2.0:
+react@^16.9.0:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
   integrity sha512-+7LQnFBwkiw+BobzOF6N//BdoNw0ouwmSJTEm9cglOOmsg/TMiFHZLe2sEoN5M7LgJTj9oHH0gxklfnQe66S1w==
