@@ -1,7 +1,6 @@
 @import '../../styles/mixins';
 
 .home-side-nav {
-
   header {
     position: fixed;
     left: 0;
@@ -26,17 +25,17 @@
 
   a.header-nav__item {
     color: #ee9a00;
-    transition: .3s;
+    transition: 0.3s;
   }
 
   a.header__link {
     color: #fafafa;
-    transition: .3s;
+    transition: 0.3s;
   }
 
   a.header-nav__item:hover,
   a.header__link:hover {
-    opacity: .85;
+    opacity: 0.85;
   }
 
   .header__link {
@@ -54,7 +53,8 @@
       align-items: center;
       justify-content: center;
     }
-    .header-nav__item, .header__link {
+    .header-nav__item,
+    .header__link {
       padding: 10px;
     }
   }

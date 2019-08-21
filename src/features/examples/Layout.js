@@ -11,9 +11,7 @@ export default class Layout extends Component {
     return (
       <div className="examples-layout">
         <SidePanel />
-        <div className="examples-page-container">
-          {this.props.children}
-        </div>
+        <div className="examples-page-container">{this.props.children}</div>
       </div>
     );
   }

@@ -14,16 +14,28 @@ export class SideNav extends Component {
   render() {
     return (
       <Fragment>
-        <div className='home-side-nav'>
+        <div className="home-side-nav">
           <header className="header">
             <div className="header-nav">
-              <Link className="header-nav__item" to="/">ReactAnimations</Link>
-              <Link className="header-nav__item" to="/ReactReveal/">ReactReveal</Link>
-              <Link className="header-nav__item" to="/ExampleCss/">ExampleCss</Link>
-              <Link className="header-nav__item" to="/ReactTransitionGroup/">ReactTransitionGroup</Link>
-              <Link className="header-nav__item" to="/AntDesign/">AntDesign</Link>
+              <Link className="header-nav__item" to="/">
+                ReactAnimations
+              </Link>
+              <Link className="header-nav__item" to="/ReactReveal/">
+                ReactReveal
+              </Link>
+              <Link className="header-nav__item" to="/ExampleCss/">
+                ExampleCss
+              </Link>
+              <Link className="header-nav__item" to="/ReactTransitionGroup/">
+                ReactTransitionGroup
+              </Link>
+              <Link className="header-nav__item" to="/AntDesign/">
+                AntDesign
+              </Link>
             </div>
-            <a href="https://github.com/nozhenkoD/react-animation-2019" className="header__link">GitHub</a>
+            <a href="https://github.com/nozhenkoD/react-animation-2019" className="header__link">
+              GitHub
+            </a>
           </header>
         </div>
       </Fragment>

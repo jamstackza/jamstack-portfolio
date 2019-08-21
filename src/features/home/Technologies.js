@@ -14,10 +14,12 @@ export class Technologies extends Component {
   render() {
     return (
       <div className="home-technologies">
-        <Iframe url="/assets/bg/red-geometric/index.html"
-                className="bgIframe"
-                display="initial"
-                position="relative" />
+        <Iframe
+          url="/assets/bg/red-geometric/index.html"
+          className="bgIframe"
+          display="initial"
+          position="relative"
+        />
       </div>
     );
   }

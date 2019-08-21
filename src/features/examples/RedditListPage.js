@@ -18,7 +18,11 @@ export class RedditListPage extends Component {
       <div className="examples-reddit-list-page">
         <h1>Reddit API Usage</h1>
         <p>This demo shows how to use Redux async actions to fetch data from Reddit's REST API.</p>
-        <button className="btn-fetch-reddit" disabled={fetchRedditListPending} onClick={fetchRedditList}>
+        <button
+          className="btn-fetch-reddit"
+          disabled={fetchRedditListPending}
+          onClick={fetchRedditList}
+        >
           {fetchRedditListPending ? 'Fetching...' : 'Fetch reactjs topics'}
         </button>
         {fetchRedditListError && (
@@ -54,4 +58,7 @@ function mapDispatchToProps(dispatch) {
   };
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(RedditListPage);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps,
+)(RedditListPage);

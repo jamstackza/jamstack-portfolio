@@ -19,16 +19,17 @@ export class WelcomePage extends Component {
         </a>
         <h1>Welcome to Rekit!</h1>
         <p>
-          Contratulations! You have created your Rekit app successfully! Seeing this page means everything works well
-          now.
+          Contratulations! You have created your Rekit app successfully! Seeing this page means
+          everything works well now.
         </p>
         <p>
           By default <a href="https://github.com/supnate/rekit">Rekit Studio</a> is also started at{' '}
           <a href="http://localhost:6076">http://localhost:6076</a> to manage the project.
         </p>
         <p>
-          This is an example feature showing about how to layout the container, how to use Redux and React Router. If
-          you want to remove all sample code, just delete the feature from Rekit Studio. Alternatively you can run&nbsp;
+          This is an example feature showing about how to layout the container, how to use Redux and
+          React Router. If you want to remove all sample code, just delete the feature from Rekit
+          Studio. Alternatively you can run&nbsp;
           <code>rekit remove feature examples</code> by command line under the project folder.
         </p>
         <p>
@@ -54,4 +55,7 @@ function mapDispatchToProps(dispatch) {
   };
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(WelcomePage);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps,
+)(WelcomePage);

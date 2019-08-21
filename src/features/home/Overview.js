@@ -11,11 +11,7 @@ export class Overview extends Component {
   };
 
   render() {
-    return (
-      <div className="home-overview">
-        Page Content: home/Overview
-      </div>
-    );
+    return <div className="home-overview">Page Content: home/Overview</div>;
   }
 }
 
@@ -29,11 +25,11 @@ function mapStateToProps(state) {
 /* istanbul ignore next */
 function mapDispatchToProps(dispatch) {
   return {
-    actions: bindActionCreators({ ...actions }, dispatch)
+    actions: bindActionCreators({ ...actions }, dispatch),
   };
 }
 
 export default connect(
   mapStateToProps,
-  mapDispatchToProps
+  mapDispatchToProps,
 )(Overview);

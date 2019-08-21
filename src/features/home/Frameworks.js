@@ -11,11 +11,7 @@ export class Frameworks extends Component {
   };
 
   render() {
-    return (
-      <div className="home-frameworks">
-        Page Content: home/Frameworks
-      </div>
-    );
+    return <div className="home-frameworks">Page Content: home/Frameworks</div>;
   }
 }
 
@@ -29,11 +25,11 @@ function mapStateToProps(state) {
 /* istanbul ignore next */
 function mapDispatchToProps(dispatch) {
   return {
-    actions: bindActionCreators({ ...actions }, dispatch)
+    actions: bindActionCreators({ ...actions }, dispatch),
   };
 }
 
 export default connect(
   mapStateToProps,
-  mapDispatchToProps
+  mapDispatchToProps,
 )(Frameworks);

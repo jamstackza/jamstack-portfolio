@@ -11,11 +11,7 @@ export class Security extends Component {
   };
 
   render() {
-    return (
-      <div className="home-security">
-        Page Content: home/Security
-      </div>
-    );
+    return <div className="home-security">Page Content: home/Security</div>;
   }
 }
 

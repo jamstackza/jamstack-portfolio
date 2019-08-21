@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6efac45-87d0-4160-ac48-7d8f99a044fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/features/home/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/home/Layout.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Root.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/configStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/configStore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/history.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/history.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/routeConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/routeConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/jamstack/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/jamstack/App.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/jamstack/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/jamstack/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/jamstack/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/jamstack/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,6 +46,7 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -144,7 +130,7 @@
       <workItem from="1566300574792" duration="2867000" />
       <workItem from="1566308838775" duration="16287000" />
       <workItem from="1566339133704" duration="7627000" />
-      <workItem from="1566369793185" duration="2622000" />
+      <workItem from="1566369793185" duration="3569000" />
     </task>
     <servers />
   </component>

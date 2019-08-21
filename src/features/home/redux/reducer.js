@@ -1,7 +1,6 @@
 import initialState from './initialState';
 
-const reducers = [
-];
+const reducers = [];
 
 export default function reducer(state = initialState, action) {
   let newState;
