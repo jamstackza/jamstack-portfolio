@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@brunoimbrizi/controlkit": "^0.1.93",
+    "@mason-api/react-sdk": "^3.6.0",
     "animejs": "^3.1.0",
     "antd": "^3.21.4",
     "autoprefixer": "7.1.6",
@@ -48,6 +49,7 @@
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
     "promise": "8.0.1",
+    "prop-types": "^15.7.2",
     "raf": "3.4.0",
     "react": "^16.2.0",
     "react-dev-utils": "^5.0.0",

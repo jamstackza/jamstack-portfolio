@@ -6,6 +6,8 @@
 # testing
 /coverage
 
+/working-files
+
 # production
 /build
 

@@ -17,11 +17,8 @@ export class LayoutUiDesktop extends Component {
       <div className="home-layout-ui-mobile">
 
         <Iframe url="/particles/index.html"
-                width="100vw"
-                height="100vh"
-                className="three-landing"
                 display="initial"
-                position="relative"/>
+                position="relative" className="bgIframe" />
       </div>
     );
   }
