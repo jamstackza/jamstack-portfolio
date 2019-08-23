@@ -1,4 +1,9 @@
 @import '../../styles/mixins';
-
+@font-face {
+  font-family: 'icomoon';
+  src: url("../../fonts/icomoon.eot?h0y041");
+  src: url("../../fonts/icomoon.eot?h0y041#iefix") format("embedded-opentype"), url("../../fonts/icomoon.ttf?h0y041") format("truetype"), url("../../fonts/icomoon.woff?h0y041") format("woff"), url("../../fonts/icomoon.svg?h0y041#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
 .home-app {
 }

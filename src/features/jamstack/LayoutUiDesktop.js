@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// noinspection ES6CheckImport
 import PropTypes from 'prop-types';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';

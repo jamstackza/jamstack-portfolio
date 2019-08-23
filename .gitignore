@@ -11,6 +11,9 @@
 # production
 /build
 
+/public/assets/templates
+/public/assets/animations
+
 # misc
 .DS_Store
 .env.local

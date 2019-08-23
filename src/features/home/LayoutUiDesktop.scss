@@ -1,6 +1,22 @@
 @import '../../styles/mixins';
 
 .home-layout-ui-desktop {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: transparent;
+
+  .bgIframe {
+    width: 100vw !important;
+    height: 100vh !important;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: transparent;
+    z-index: 777;
+  }
 }
 
 body {
@@ -21,4 +37,15 @@ body {
   border: none;
   padding: 0px;
   margin: 0px;
+}
+
+#landingAnimation {
+  width: 100vw;
+  height: 100vh;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  top: 0px;
+  left: 0px;
+  z-index: 777;
 }

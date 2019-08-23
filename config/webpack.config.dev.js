@@ -118,6 +118,11 @@ module.exports = {
         use: 'imports-loader?THREE=three'
       },
       {
+        exclude: [/node_modules\/(?!(swiper|dom7)\/).*/, /\.test\.js(x)?$/],
+        test: /\.js(x)?$/,
+        use: [{ loader: 'babel-loader' }],
+      },
+      {
         test: /\.(js|jsx|mjs)$/,
         enforce: 'pre',
         use: [
