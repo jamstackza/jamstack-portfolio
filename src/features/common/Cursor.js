@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 
-
 export default class Cursor extends Component {
   static propTypes = {};
 
-  componentDidMount(){
+  componentDidMount() {
     function cursorInit() {
       let clientX = -100;
       let clientY = -100;
@@ -12,8 +11,8 @@ export default class Cursor extends Component {
       const innerCursor = document.querySelector('.cursor');
       const itemCursor = document.querySelector('.cursor-item');
 
-      const cw = innerCursor.offsetWidth / 2;
-      const ch = innerCursor.offsetHeight / 2;
+      var cw = innerCursor.offsetWidth / 2;
+      var ch = innerCursor.offsetHeight / 2;
 
       const initCursor = () => {
         document.addEventListener('mousemove', e => {
@@ -29,9 +28,7 @@ export default class Cursor extends Component {
 
         requestAnimationFrame(render);
       };
-
       initCursor();
-
       const button = document.querySelectorAll(['button', 'a', '.click-target']);
 
       for (let i = 0; i < button.length; i++) {
@@ -44,7 +41,6 @@ export default class Cursor extends Component {
           itemCursor.classList.remove('cursor-big');
         });
       }
-      initCursor();
       const cursorColor = document.querySelectorAll('.cursor-color');
 
       for (let i = 0; i < cursorColor.length; i++) {
@@ -62,8 +58,10 @@ export default class Cursor extends Component {
   }
 
   render() {
-    return <div className="cursor">
-      <div id="cursor" className="cursor-item"> </div>
-    </div>;
+    return (
+      <div className="cursor">
+        <div id="cursor" className="cursor-item"></div>
+      </div>
+    );
   }
 }

@@ -4628,7 +4628,7 @@ growly@^1.3.0:
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
-gsap@^2.1.3:
+gsap@^2.0.2, gsap@^2.1.3:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/gsap/-/gsap-2.1.3.tgz#c63ee3a50f0b7dc3b46ed0845bb0f09049feb944"
   integrity sha512-8RFASCqi2FOCBuv7X4o7M6bLdy+1hbR0azg+MG7zz+EVsI+OmJblYsTk0GEepQd2Jg/ItMPiVTibF7r3EVxjZQ==
@@ -6290,6 +6290,11 @@ loglevel@^1.4.1:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.6.3.tgz#77f2eb64be55a404c9fd04ad16d57c1d6d6b1280"
   integrity sha512-LoEDv5pgpvWgPF4kNYuIp0qqSJVWak/dML0RY74xlzMZiT9w77teNAwKYKWBTYjlokMirg+o3jBwp+vlLrcfAA==
+
+logrocket@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/logrocket/-/logrocket-1.0.3.tgz#43354e29099c123d5608fcc18799ce53a87931b4"
+  integrity sha512-0N5AhHNE2MTS09J2FIXj1bSVjTdkn0IVrKkO7rwhtXDPpqbQMICZuq25edGnyXJxppQAxBpOOt2bFgIZBlEZ0g==
 
 longest@^1.0.1:
   version "1.0.1"
@@ -8665,6 +8670,13 @@ react-grid-layout@^0.16.6:
     react-draggable "3.x"
     react-resizable "1.x"
 
+react-gsap@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-gsap/-/react-gsap-1.2.0.tgz#38e89b6802c5521fd27677ce27ba6ac119f7348e"
+  integrity sha512-hopmcLuMFcUd8MHVA7gK5VHUeuXnqOJjTADPsEjIGVG1pCP05Uagt1TQri2pG67QOZkEWHwQGT6vwlzXPUbLZQ==
+  dependencies:
+    gsap "^2.0.2"
+
 react-hot-loader@^4.0.0:
   version "4.12.11"
   resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.12.11.tgz#06bd618d0a7343c8afa4a31206844f651193bae5"
@@ -8780,6 +8792,11 @@ react-script-loader-hoc@^1.2.2:
   dependencies:
     hoist-non-react-statics "^2.3.1"
     react "^16.8.4"
+
+react-scrollmagic@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/react-scrollmagic/-/react-scrollmagic-2.1.1.tgz#3c174ccc1d6b884d0d17257d36fc010258dae1f8"
+  integrity sha512-ELdWwdLWHF9qrZA74GTA/2JuxgbZxjq/mlXGNAYDQ9+pOzj2TGqiGNqm4rhQM+ifdh9YrB/2Xmzyy/AtWoeGPw==
 
 react-slick@~0.25.2:
   version "0.25.2"

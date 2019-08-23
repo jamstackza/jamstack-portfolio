@@ -2,269 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6efac45-87d0-4160-ac48-7d8f99a044fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/js/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/jamstack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Blog/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Blog/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Blog/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/ClientsDark/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/ClientsDark/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/ClientsDark/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/ClientsDark/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/1 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Portfolio/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Slider/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Slider/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Slider/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/Slider/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/TitleIcon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/img/logo/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/templates/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/common/Cursor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/common/Cursor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Blog/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Blog/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Blog/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/ClientsDark/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/ClientsDark/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/ClientsDark/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/ClientsDark/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/1 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Portfolio/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Slider/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Slider/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Slider/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/Slider/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/TitleIcon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/theme/logo/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/theme/_jamstack.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/theme/_plugins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/features/common/Cursor.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/features/common/LandingSwiper.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/common/MainNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/common/MainNav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/features/common/MainNav.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/blue-bubbles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/blue-bubbles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/blue-bubbles/mySketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/blue-bubbles/mySketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/dots/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/dots/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/dots/mySketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/dots/mySketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/insect/Bellefair-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/insect/Bellefair-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/insect/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/insect/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/insect/mySketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/insect/mySketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/particle-flow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/particle-flow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/particle-flow/mySketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/particle-flow/mySketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/particles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/particles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/red-geometric/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/red-geometric/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/red-geometric/mySketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/red-geometric/mySketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/red-geometric/updated.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/red-geometric/updated.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/shared/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/shared/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/neg-x.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/neg-x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/neg-y.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/neg-y.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/neg-z.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/neg-z.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/pos-x.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/pos-x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/pos-y.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/pos-y.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/images/cubeMaps/1/pos-z.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/images/cubeMaps/1/pos-z.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/OrbitControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/OrbitControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/Part.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/Part.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/Swarm.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/Swarm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/TrackballControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/TrackballControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/controls/OrbitControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/controls/OrbitControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/controls/TrackballControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/controls/TrackballControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/dat.gui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/dat.gui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/presets.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/presets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/js/three.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/js/three.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/sick/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/sick/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/autoprefixer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/autoprefixer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/clean.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/clean.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/connect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/handlebars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/haychtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/haychtml.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/jshint.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/jshint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/neuter.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/neuter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/notify.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/notify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/sass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/sass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/uglify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/config/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/config/watch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/tasks/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/tasks/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/grunt/tasks/shaderChunks.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/grunt/tasks/shaderChunks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/pages/_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/pages/_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/postinstall.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/postinstall.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bg-loop.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bg-loop.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bg-loop.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bg-loop.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bubbles-1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bubbles-1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bubbles-1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bubbles-1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bubbles-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bubbles-2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/bubbles-2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/bubbles-2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/buzz-wave-2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/buzz-wave-2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/buzz-wave-2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/buzz-wave-2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/buzz-wave-4.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/buzz-wave-4.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/audio/buzz-wave-4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/audio/buzz-wave-4.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shader-chunks/lerp_pos_pars_vertex.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shader-chunks/lerp_pos_pars_vertex.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shader-chunks/lerp_pos_vertex.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shader-chunks/lerp_pos_vertex.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/alpha-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/alpha-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/alpha-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/alpha-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/basic-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/basic-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/basic-point-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/basic-point-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/basic-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/basic-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/bulb-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/bulb-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/dust-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/dust-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/dust-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/dust-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/gel-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/gel-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/gel-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/gel-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/lerp-point-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/lerp-point-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/lerp-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/lerp-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/normal-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/normal-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/tail-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/tail-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/tentacle-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/tentacle-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/tentacle-vert.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/tentacle-vert.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/glsl/shaders/uvs-frag.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/glsl/shaders/uvs-frag.glsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/application/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/application/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/components/ColorComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/components/ColorComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/components/GraphComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/components/GraphComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/components/ModalComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/components/ModalComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/components/ToggleComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/components/ToggleComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/constraints/LocalPlaneConstraint.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/constraints/LocalPlaneConstraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/controllers/AudioController.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/controllers/AudioController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/controllers/IndexController.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/controllers/IndexController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/controllers/TestController.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/controllers/TestController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/forces/PointRepulsorForce.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/forces/PointRepulsorForce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/items/Dust.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/items/Dust.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/items/Medusae.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/items/Medusae.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/libs.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/libs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/AlphaMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/AlphaMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/BulbMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/BulbMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/DustMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/DustMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/GelMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/GelMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/LerpMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/LerpMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/LerpPointMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/LerpPointMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/ShaderMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/ShaderMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/TailMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/TailMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/TentacleMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/TentacleMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/materials/UVMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/materials/UVMaterial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/post-processing/LensDirtPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/post-processing/LensDirtPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/post-processing/LensDirtTexture.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/post-processing/LensDirtTexture.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/scenes/MainScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/scenes/MainScene.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Dispatcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Dispatcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Faces.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Faces.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Features.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Features.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Format.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Format.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Geometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Geometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/KeyDelegator.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/KeyDelegator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Links.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Links.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Looper.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Looper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/js/utils/Tweens.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/js/utils/Tweens.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/controls/TrackballControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/controls/TrackballControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/geometries/PlaneBufferGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/geometries/PlaneBufferGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/geometries/SphereBufferGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/geometries/SphereBufferGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/BloomPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/BloomPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/BokehPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/BokehPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/EffectComposer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/EffectComposer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/FilmPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/FilmPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/MaskPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/MaskPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/RenderPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/RenderPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/SavePass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/SavePass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/ShaderPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/ShaderPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/postprocessing/TexturePass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/postprocessing/TexturePass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/BasicShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/BasicShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/BleachBypassShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/BleachBypassShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/BokehShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/BokehShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/ConvolutionShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/ConvolutionShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/CopyShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/CopyShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/FXAAShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/FXAAShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/HorizontalBlurShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/HorizontalBlurShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/HorizontalTiltShiftShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/HorizontalTiltShiftShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/HueSaturationShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/HueSaturationShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/LuminosityShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/LuminosityShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/NormalMapShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/NormalMapShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/SSAOShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/SSAOShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/VerticalBlurShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/VerticalBlurShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/VerticalTiltShiftShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/VerticalTiltShiftShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/lib-extras/three/shaders/VignetteShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/lib-extras/three/shaders/VignetteShader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/apps/_application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/apps/_application.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/apps/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/apps/_index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/components/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/components/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/components/_controls.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/components/_controls.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/components/_graph.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/components/_graph.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/helpers/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/helpers/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/helpers/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/helpers/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/helpers/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/helpers/_type.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/scss/tests.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/scss/tests.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/assert/close-enough.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/assert/close-enough.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/assert/equal-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/assert/equal-array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/assert/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/assert/range.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/constraints/LocalPlaneConstraint.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/constraints/LocalPlaneConstraint.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/post-processing/LensDirtPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/post-processing/LensDirtPass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/squids/static/tests/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/squids/static/tests/tests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/super-particles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/super-particles/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/super-particles/static/js/app.29c2b7342e241dd645cd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/super-particles/static/js/app.29c2b7342e241dd645cd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/super-particles/static/js/manifest.474f8e677e7859faa77f.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/super-particles/static/js/manifest.474f8e677e7859faa77f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/bg/super-particles/static/js/vendor.0a552de124a945bcf9a4.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/animations/super-particles/static/js/vendor.0a552de124a945bcf9a4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/common/Cursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/common/Cursor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/common/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/common/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/common/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/common/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/DefaultPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/DefaultPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/home/LayoutUiDesktop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/LayoutUiDesktop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/LayoutUiDesktop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/LayoutUiDesktop.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/gui/GUIView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/shaders/particle.frag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/shaders/particle.vert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/home/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/utils/easing.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/utils/event.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/utils/fetch.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/utils/math.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/webgl/WebGLView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/webgl/controls/InteractiveControls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/webgl/particles/Particles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/home/webgl/particles/TouchTexture.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/jamstack/LayoutUiDesktop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/jamstack/LayoutUiDesktop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -286,6 +33,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
@@ -303,27 +61,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/features/home/scripts" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/features/home" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/features/home/scripts" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/fonts" />
       <recent name="$PROJECT_DIR$/public/assets/js" />
-      <recent name="$PROJECT_DIR$/src/features/home" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/features/home" />
     </key>
   </component>
@@ -339,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -401,7 +165,8 @@
       <workItem from="1566505732007" duration="48000" />
       <workItem from="1566505792459" duration="4298000" />
       <workItem from="1566512266618" duration="7225000" />
-      <workItem from="1566543664190" duration="575000" />
+      <workItem from="1566543664190" duration="3329000" />
+      <workItem from="1566560823694" duration="4311000" />
     </task>
     <servers />
   </component>

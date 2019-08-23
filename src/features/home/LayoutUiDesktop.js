@@ -20,9 +20,7 @@ export class LayoutUiDesktop extends Component {
       <div className="home-layout-ui-desktop">
         <Cursor></Cursor>
 
-        <main id="swup">
 
-        </main>
       </div>
     );
   }
