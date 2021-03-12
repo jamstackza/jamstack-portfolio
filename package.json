@@ -53,7 +53,7 @@
     "prop-types": "^15.7.2",
     "raf": "3.4.0",
     "react": "^16.9.0",
-    "react-dev-utils": "^5.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-device-detect": "^1.7.5",
     "react-dom": "^16.2.0",
     "react-grid-layout": "^0.16.6",
